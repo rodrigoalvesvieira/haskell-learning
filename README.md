@@ -19,8 +19,15 @@ The goal of this project is also of leveraging all Functional Programming techni
 
 ## Usage
 
+Either run the file directly from the command line, like:
 
-pending...
+`$ ghci Lista_1-2012_1.hs`
+
+Or enter `ghci` and do:
+
+```haskell
+:l Lista_1-2012_1
+```
 
 ## License
 
